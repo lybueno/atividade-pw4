@@ -1,0 +1,5 @@
+No primeiro momento foram executados testes com o postman para verificar se as funções do contatoController estavam funcionando corretamente.
+Iniciei o tratamento para carregar todos os contatos salvos na página index.
+É possível salvar novos contatos com a página contato/index.
+É possível deletar cadastro pelo link excluir.
+Ainda não finalizei a renderização do cadastro selecionado para update no formulário.

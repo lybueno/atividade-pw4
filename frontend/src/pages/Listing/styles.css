@@ -1,0 +1,21 @@
+.menu {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu h1 {
+    color: #4D41C0;
+}
+
+.menu div {
+    background-color: #4D41C0;
+    color: #fff;
+    height: 50px;
+    margin-top: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    height: 40px;
+    width: 195px;
+    padding-top: 8px;
+    text-align: center;
+}

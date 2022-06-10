@@ -1,0 +1,54 @@
+.agenda-card {
+    margin-left: 30px;
+    margin-bottom: 30px;
+    display: flex;
+}
+
+.card-top-container {
+    text-align: center;
+    padding: 16px 0;
+    border-bottom: 1px solid #E1E1E1;
+}
+
+.card-top-container img {
+    width: 150px;
+    height: 150px;
+}
+
+.card-bottom-container {
+    padding: 15px 20px 30px 20px;
+    width: 300px;
+}
+
+.card-bottom-container h6 {
+    font-size: 18px;
+    color: #263238;
+}
+
+.card-buttons {
+    display: flex;
+    align-items:center;
+    text-align: center;
+    padding: 50px 50px;
+}
+
+.update {
+    background-color: blue;
+    color: #fff;
+    font-weight: bold;
+    margin: 0px 25px;
+    height: 33px;
+    width: 70px;
+    padding-top: 4px;
+    border-radius: 5px;
+}
+
+.delete {
+    background-color: red;
+    color: #fff;
+    font-weight: bold;
+    height: 33px;
+    width: 70px;
+    padding-top: 4px;
+    border-radius: 5px;
+}

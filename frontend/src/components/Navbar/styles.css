@@ -1,0 +1,31 @@
+.header {
+    background-color: #4D41C0;
+    height: 60px;
+    align-items: center;
+    padding: 5px 8px;
+}
+
+.agenda-nav-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+}
+
+.agenda-nav-content h1 {
+    margin: 10;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.agenda-contact-container {
+    display: flex;
+    align-items:flex-end;
+}
+
+.agenda-contact-link {
+    margin: 0 0 0 10px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #fff;
+}
